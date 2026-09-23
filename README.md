@@ -111,17 +111,6 @@ Trabalho de Conclusão de Curso com o objetivo de agilizar o atendimento de paci
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Murilo-Vasconcelos&show_icons=true&theme=default&hide_title=true" height="180" alt="Estatísticas do GitHub de Murilo"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Vasconcelos&layout=compact&theme=default" height="180" alt="Linguagens mais usadas por Murilo"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
